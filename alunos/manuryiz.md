@@ -7,4 +7,6 @@ oioi, sou a angelica e esta é a minha página no mural
 * Uma curiosidade: amo XDINARY HEROES
 * Minha meta para o curso: desenvolver habilidades, ter uma boa rede de contatos, um plano de carreira.
 
+## ...
+
 * Uma frase que me inspira: quem tem luz propria jamais ficara na escuridão.
